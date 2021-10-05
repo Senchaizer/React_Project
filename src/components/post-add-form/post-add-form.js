@@ -1,4 +1,3 @@
-import { render } from 'node-sass';
 import React, {Component} from 'react';
 
 import './post-add-form.css'
